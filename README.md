@@ -84,11 +84,16 @@ $ npm run test:full
 ## Deployment
 * The project is deployed on [Amazon web services](https://aws.amazon.com/) using [EC2](https://aws.amazon.com/ec2/) 
 
-    ![AWS deployment](/docs/aws-ec2-dashboard.png)
-    ![AWS deployment](/docs/aws-ec2-monitoring.png)
+    ![AWS deployment](/docs/aws.png)
 
 * AWS endpoint 
 ```
+18.204.208.228:3000
+```
+or
+
+```
+ec2-18-204-208-228.compute-1.amazonaws.com:3000
 ```
 
 ## TODO
