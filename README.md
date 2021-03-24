@@ -89,7 +89,6 @@ $ npm run test:full
 
 * AWS endpoint 
 ```
-http://ec2-18-222-88-204.us-east-2.compute.amazonaws.com:3000/
 ```
 
 ## TODO
